@@ -1,0 +1,1 @@
+# Q3: Role-Based Access Control (RBAC) with JWT\nImplements role-based API access for Admin, Moderator, and User.

@@ -1,0 +1,1 @@
+# Q2: Protected Routes with JWT Verification\nImplements JWT authentication and middleware to secure backend routes.
